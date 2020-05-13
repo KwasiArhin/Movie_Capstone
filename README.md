@@ -14,8 +14,7 @@ The is able to successfully distinguish 6 different shot types:
 
 
 ### 3. Medium Closeup 
-
-![]https://github.com/KwasiArhin/Movie_Capstone/blob/master/README_imgs/Pulp_Fiction-Scene-0949-01.jpg(?raw=true)
+![](https://github.com/KwasiArhin/Movie_Capstone/blob/master/README_imgs/babydriver018.jpg?raw=true)
 
 ### 4. Medium
 
