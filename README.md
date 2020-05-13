@@ -6,15 +6,12 @@ The is able to successfully distinguish 6 different shot types:
 
 ###  1. Extreme Closeup 
 
-![Darren-Scene-054-01](C:\Users\Kwasi\Documents\github\Movie_Capstone\README_imgs\Darren-Scene-054-01.jpg)
-
-
+![](https://github.com/KwasiArhin/Movie_Capstone/blob/master/README_imgs/Darren-Scene-054-01.jpg?raw=true)
 
 ### 2. Closeup 
 
+![](https://github.com/KwasiArhin/Movie_Capstone/blob/master/README_imgs/Juice-Scene-0758-02.jpg?raw=true)
 
-
-![Juice-Scene-0758-02](C:\Users\Kwasi\Documents\github\Movie_Capstone\README_imgs\Juice-Scene-0758-02.jpg)
 
 ### 3. Medium Closeup 
 
