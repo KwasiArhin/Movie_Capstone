@@ -1,7 +1,22 @@
 # Scene Recognition
 
+Analysing cinema is a time-consuming process. In the cinematography domain alone, there's a lot of factors to consider, such as shot scale, shot composition, camera movement, color, lighting, etc. Whatever you shoot is in some way influenced by what you've watched. There's only so much one can watch, and even lesser that one can analyse thoroughly.
+
+This is where neural networks offer ample promise. They can recognise patterns in images that weren't possible until less than a decade ago, thus offering an unimaginable speed up in analysing cinema.
 
 ### Shot Types:
+
+Extreme Wide Shot-An Extreme Wide Shot (EWS) emphasises the vastness of the location.When there is a subject, it usually occupies a very small part of the frame.
+
+Long Shot-A Long Shot (LS) includes characters in their entirety, and a large portion of the surrounding area.
+
+Medium Shot- A Medium Shot (MS) shows the character from the waist up.It allows one to see nuances of the character's body language, and to some degree the facial expressions.
+
+Medium Close Up-A Medium Close Up (MCU) shows the character from the chest/shoulders up. It allows one to see nuances of the character's facial expressions, and some upper-body language.
+
+Close Up-A Close Up (CU) shows the face of the character, sometimes including the neck/shoulders.Emphasises the facial expressions of the character.
+
+Extreme Close Up-An Extreme Close Up (ECU) highly zooms in to any one feature of the subject to draw attention to that feature specifically.
 
 ###  1. Extreme Closeup 
 
