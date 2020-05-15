@@ -1,6 +1,5 @@
 # Scene Recognition
 
-The is able to successfully distinguish 6 different shot types:
 
 ### Shot Types:
 
