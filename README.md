@@ -6,41 +6,37 @@ This is where neural networks offer ample promise. They can recognise patterns i
 
 ### Shot Types:
 
-Extreme Wide Shot-An Extreme Wide Shot (EWS) emphasises the vastness of the location.When there is a subject, it usually occupies a very small part of the frame.
-
-Long Shot-A Long Shot (LS) includes characters in their entirety, and a large portion of the surrounding area.
-
-Medium Shot- A Medium Shot (MS) shows the character from the waist up.It allows one to see nuances of the character's body language, and to some degree the facial expressions.
-
-Medium Close Up-A Medium Close Up (MCU) shows the character from the chest/shoulders up. It allows one to see nuances of the character's facial expressions, and some upper-body language.
-
-Close Up-A Close Up (CU) shows the face of the character, sometimes including the neck/shoulders.Emphasises the facial expressions of the character.
-
-Extreme Close Up-An Extreme Close Up (ECU) highly zooms in to any one feature of the subject to draw attention to that feature specifically.
-
 ###  1. Extreme Closeup 
 
 ![](https://github.com/KwasiArhin/Movie_Capstone/blob/master/README_imgs/Darren-Scene-054-01.jpg?raw=true)
+
+Extreme Close Up-An Extreme Close Up (ECU) highly zooms in to any one feature of the subject to draw attention to that feature specifically.
 
 ### 2. Closeup 
 
 ![](https://github.com/KwasiArhin/Movie_Capstone/blob/master/README_imgs/Juice-Scene-0758-02.jpg?raw=true)
 
-
+Close Up-A Close Up (CU) shows the face of the character, sometimes including the neck/shoulders.Emphasises the facial expressions of the character.
 ### 3. Medium Closeup 
 ![](https://github.com/KwasiArhin/Movie_Capstone/blob/master/README_imgs/babydriver018.jpg?raw=true)
 
+Medium Close Up-A Medium Close Up (MCU) shows the character from the chest/shoulders up. It allows one to see nuances of the character's facial expressions, and some upper-body language.
 ### 4. Medium
 
 ![](https://github.com/KwasiArhin/Movie_Capstone/blob/master/README_imgs/Pulp_Fiction-Scene-0949-01.jpg?raw=true)
+
+Medium Shot- A Medium Shot (MS) shows the character from the waist up.It allows one to see nuances of the character's body language, and to some degree the facial expressions.
 
 ### 5. Longshot 
 
 ![](https://github.com/KwasiArhin/Movie_Capstone/blob/master/README_imgs/django-Scene-0398-02.jpg?raw=true)
 
+Long Shot-A Long Shot (LS) includes characters in their entirety, and a large portion of the surrounding area.
+
 ### 6. Extreme Wide Shot 
 ![](https://github.com/KwasiArhin/Movie_Capstone/blob/master/README_imgs/ews-Scene-004-01.jpg?raw=true)
 
+Extreme Wide Shot-An Extreme Wide Shot (EWS) emphasises the vastness of the location.When there is a subject, it usually occupies a very small part of the frame.
 
 ## Data:
 Thus, the dataset for this project had to be constructed from scratch. It is diverse, consisting of samples from over 300 movies, collected from various sources. Each image had to be looked over several times to ensure that it had been categorised correctly.
