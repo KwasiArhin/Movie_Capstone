@@ -4,6 +4,18 @@ Analysing cinema is a time-consuming process. In the cinematography domain alone
 
 This is where neural networks offer ample promise. They can recognise patterns in images that weren't possible until less than a decade ago, thus offering an unimaginable speed up in analysing cinema.
 
+## Data:
+Thus, the dataset for this project had to be constructed from scratch. It is diverse, consisting of samples from over 300 movies, collected from various sources. Each image had to be looked over several times to ensure that it had been categorised correctly.
+
+In total, the dataset consists of 2,724 (2,180 training + 544 validation) images, split into 6 shot types:
+
+1. Long Shot: 263 images
+2. Medium Shot: 142 images
+3. Medium Close Up: 223 images
+4. Close Up: 841 images
+5. Extreme Close Up:1041 images
+6. Extreme Wide Shot:210 images
+
 ### Shot Types:
 
 ###  1. Extreme Closeup 
@@ -38,17 +50,6 @@ Long Shot-A Long Shot (LS) includes characters in their entirety, and a large po
 
 Extreme Wide Shot-An Extreme Wide Shot (EWS) emphasises the vastness of the location.When there is a subject, it usually occupies a very small part of the frame.
 
-## Data:
-Thus, the dataset for this project had to be constructed from scratch. It is diverse, consisting of samples from over 300 movies, collected from various sources. Each image had to be looked over several times to ensure that it had been categorised correctly.
-
-In total, the dataset consists of 2,724 (2,180 training + 544 validation) images, split into 6 shot types:
-
-1. Long Shot: 263 images
-2. Medium Shot: 142 images
-3. Medium Close Up: 223 images
-4. Close Up: 841 images
-5. Extreme Close Up:1041 images
-6. Extreme Wide Shot:210 images
 
 ## Conclusions
 
